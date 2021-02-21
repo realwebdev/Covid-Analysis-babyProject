@@ -1,1 +1,7 @@
-package Covid_Analysis_babyProject
+package main
+
+import "fmt"
+func main (){
+	fmt.Print("wassup")
+}
+
